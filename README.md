@@ -1,6 +1,6 @@
-# Code for Joint Evaluation of Fairness and Relevance in Recommender Systems with Pareto Frontier ⚖ (TheWebConf/WWW 2025 Full Paper -- Oral) 
+# Code for Joint Evaluation of Fairness and Relevance in Recommender Systems with Pareto Frontier ⚖ (TheWebConf/WWW'25 Full Paper - Oral) 
 
-This repository contains the code used for the experiments and analysis in "Joint Evaluation of Fairness and Relevance in Recommender Systems with Pareto Frontier" by Theresia Veronika Rampisela, Tuukka Ruotsalo, Maria Maistro, and Christina Lioma. This work has been accepted to TheWebConf for oral presentation.
+This repository contains the code used for the experiments and analysis in "Joint Evaluation of Fairness and Relevance in Recommender Systems with Pareto Frontier" by Theresia Veronika Rampisela, Tuukka Ruotsalo, Maria Maistro, and Christina Lioma. This work has been accepted to TheWebConf/WWW 2025 for oral presentation.
 
 [[ACM]](https://doi.org/10.1145/3696410.3714589)
 
