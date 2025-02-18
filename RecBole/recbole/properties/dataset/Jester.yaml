@@ -1,0 +1,24 @@
+load_col:
+    inter: [user_id,item_id,rating]
+filter_inter_by_user_or_item: False
+user_inter_num_interval: "[5,80]"
+item_inter_num_interval: "[5,inf)"
+
+rm_dup_inter: last
+
+RATING_FIELD: rating
+LABEL_FIELD: label
+NEG_PREFIX: neg_
+
+val_interval:
+    rating: "[0,10]"
+threshold:
+    rating: 0
+
+eval_args: 
+  split: {'RS':[0.6,0.2,0.2]}
+  group_by: none
+  order: RO
+  mode: full
+
+num_clusters: 5
