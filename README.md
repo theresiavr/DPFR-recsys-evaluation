@@ -37,13 +37,15 @@ If you use the code outside of RecBole's original code, please cite the followin
 author = {Rampisela, Theresia Veronika and Ruotsalo, Tuukka and Maistro, Maria and Lioma, Christina},
 title = {Joint Evaluation of Fairness and Relevance in Recommender Systems with Pareto Frontier},
 year = {2025},
+isbn = {9798400712746},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 url = {https://doi.org/10.1145/3696410.3714589},
 doi = {10.1145/3696410.3714589},
+pages = {1548–1566},
 numpages = {19},
-keywords = {evaluation, relevance, fairness, pareto frontier, recommendation},
-location = {Sydney, NSW, Australia},
+keywords = {evaluation, fairness, pareto frontier, recommendation, relevance},
+location = {Sydney NSW, Australia},
 series = {WWW '25}
 }
 ```
