@@ -52,7 +52,7 @@ series = {WWW '25}
 # Datasets
 
 ## Downloads
-We use the following datasets, that can be downloaded from the Google Drive folder provided by [RecBole](https://recbole.io/dataset_list.html), under ProcessedDatasets:
+We use the following datasets, which can be downloaded from the Google Drive folder provided by [RecBole](https://recbole.io/dataset_list.html), under ProcessedDatasets:
 - Amazon-lb: this dataset can be found in the Amazon2018 folder. The name of the folder is Amazon_Luxury_Beauty
 - Lastfm is under the LastFM folder
 - Jester is under the Jester folder
